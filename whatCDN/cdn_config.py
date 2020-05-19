@@ -3,8 +3,8 @@
 # Will need to register with censys before using this tool
 # you will get 250 calls free per month to their api
 API_URL = "https://censys.io/api/v1"
-UID = "62121fa4-937e-49de-aa1f-47a32f945a61"
-SECRET = "XNOqqQ5uSBskU3wDz8wLOHF8jPrQAc0b"
+UID = "[UID]"
+SECRET = "[YOUR SECRET HERE]"
 
 # Some lists of CDNs to use. I mainly use the CDNs list not COMMON
 # but for some methods I need to use the name formatting Common has
