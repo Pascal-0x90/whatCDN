@@ -85,3 +85,8 @@ This will go through all of the data collected from all the modules ran and will
 parse through them looking for any CDNs which match signatures in cdn_config.py.
 Though some may not match, the data does not get removed from all the internal
 variables so these can be re-parsed manually if need be.
+### Do Everything
+```python
+>>> dom.all_checks()
+```
+This does everything mentioned above.
