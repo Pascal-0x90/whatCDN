@@ -2,6 +2,8 @@
 This is a simple tool "library" which will attempt to harvest/fingerprint CDN data about a
 website. 
 
+A more stable and better made upgrade of this project can be found on: https://github.com/cisagov/findcdn
+
 ## How To Setup
 Make sure to run `pip3 install -r requirements.txt` before running anything in
 the library. 
